@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# blackemperor007 dev School Management Dashboard
 
 ## Getting Started
 
